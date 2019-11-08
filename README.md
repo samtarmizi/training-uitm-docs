@@ -12,7 +12,8 @@ Install VSCode [here](https://code.visualstudio.com/download)
 
 Install Putty [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-Download phpMyAdmin [here](hhttps://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAdmin-4.9.1-all-languages.zip)
+Download phpMyAdmin [here](https://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAdmin-4.9.1-all-languages.zip)
+
 
 ### Laravel Project via Composer
 
