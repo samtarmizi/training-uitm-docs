@@ -43,7 +43,7 @@ Download phpMyAdmin [here](https://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAd
 
     git commit -m "Commit message"
 
-    git remote add origin serve <server>
+    git remote add origin <server>
 
     git push origin master
 
