@@ -2,12 +2,12 @@
 
 ### Installation for Windows
 
-    - Install Laragon [here](https://sourceforge.net/projects/laragon/files/releases/4.0/laragon-full.exe)
-    - Install NPM [here](https://nodejs.org/en/)
-    - Install GitBash [here](https://git-scm.com/download/win)
-    - Install VSCode [here](https://code.visualstudio.com/download)
-    - Install Putty [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-    - Download phpMyAdmin [here](hhttps://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAdmin-4.9.1-all-languages.zip)
+Install Laragon [here](https://sourceforge.net/projects/laragon/files/releases/4.0/laragon-full.exe)
+Install NPM [here](https://nodejs.org/en/)
+Install GitBash [here](https://git-scm.com/download/win)
+Install VSCode [here](https://code.visualstudio.com/download)
+Install Putty [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+Download phpMyAdmin [here](hhttps://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAdmin-4.9.1-all-languages.zip)
 
 ### Laravel Project via Composer
 
@@ -39,7 +39,7 @@
 
     git push origin master
 
-    More [git command](https://git-scm.com/docs/git)
+More [git command](https://git-scm.com/docs/git)
 
 
 
