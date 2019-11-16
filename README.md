@@ -49,5 +49,23 @@ Download phpMyAdmin [here](https://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAd
 
 More [git command](https://git-scm.com/docs/git)
 
+### Clone Project
+
+    git clone https://url projectname
+
+    cd projectname
+
+    composer update
+
+    cp .env.example .env
+        Update APP NAME
+        Update APP KEY
+            php artisan key:generate
+        Update DB 
+            go to DB Manager
+                create DB
+    
+
+
 
 
