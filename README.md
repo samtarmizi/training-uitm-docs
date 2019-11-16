@@ -49,6 +49,16 @@ Download phpMyAdmin [here](https://files.phpmyadmin.net/phpMyAdmin/4.9.1/phpMyAd
 
 More [git command](https://git-scm.com/docs/git)
 
+Daily Use Command
+    
+    git status
+    
+    git add .
+    
+    git commit -m "Commit Message"
+    
+    git push -u origin master
+
 ### Clone Project
 
     git clone https://url projectname
@@ -64,6 +74,8 @@ More [git command](https://git-scm.com/docs/git)
         Update DB 
             go to DB Manager
                 create DB
+    git remote set-url <remote-name> <remote-url>
+
     
 
 
